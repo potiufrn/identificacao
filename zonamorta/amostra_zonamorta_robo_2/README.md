@@ -6,4 +6,4 @@ Amostras para identificação da zona morta do robô.
 x | y | theta | pwm_r | pwm_l
 ```
 
-* Amostras colhidas em: 05/04/2018
+* Amostras colhidas em: 06/04/2018
