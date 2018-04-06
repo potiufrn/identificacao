@@ -6,4 +6,4 @@ Amostras para identificação do atraso do sistema.
 x | y | theta | pwm_r | pwm_l
 ```
 
-* Amostras colhida em: 02/04/2018
+* Amostras colhidas em: 02/04/2018
